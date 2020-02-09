@@ -1,3 +1,25 @@
 body {
     padding-top: 5rem;
 }
+#content{
+	max-width: 500px;
+  	margin: auto;
+}
+img{
+	border-radius: 50%;
+	width: 480px;
+	height: 350px; 
+	margin-bottom: 40px;
+
+}
+h1{
+	align-content: center;
+
+}
+
+td{
+	padding-right: 100px;
+}
+#follow{
+	width: 450px
+}
